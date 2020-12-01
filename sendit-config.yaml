@@ -1,0 +1,3 @@
+displayName: "Send it!"
+displayDescription: "This is the file uploader"
+uploadPath: "/var/www/uploads"
